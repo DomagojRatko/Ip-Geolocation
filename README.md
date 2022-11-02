@@ -6,6 +6,7 @@
 
 ## What is this?
 * This is **IP geolocation scanner** made with **Rust** lang. Working **version 1.0**
+* Provided IP address for scan is sent as HTTP request to https://ip-api.com API and response format "JSON" is provided and mapped for display.
 
 ## How to use it?
 * [Download](https://github.com/DomagojRatko/Port-Scanner/raw/main/ip_geolocation/ip_geolocation.exe) `ip_geolocation.exe` and run it from terminal.
