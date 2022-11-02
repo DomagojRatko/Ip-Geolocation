@@ -8,7 +8,7 @@
 * This is **IP geolocation scanner** made with **Rust** lang. Working **version 1.0**
 
 ## How to use it?
-* [Download](https://github.com/DomagojRatko/Port-Scanner/raw/main/ip_geolocation/ip_geolocation.exe) `port_scanner.exe` and run it from terminal.
+* [Download](https://github.com/DomagojRatko/Port-Scanner/raw/main/ip_geolocation/ip_geolocation.exe) `ip_geolocation.exe` and run it from terminal.
 * Example:
 ```bash
 ip_geolocation -i 216.58.216.238
