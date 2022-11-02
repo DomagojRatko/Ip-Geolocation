@@ -9,7 +9,7 @@
 * Provided IP address for scan is sent as HTTP request to https://ip-api.com API and response format "JSON" is provided and mapped for display.
 
 ## How to use it?
-* [Download](https://github.com/DomagojRatko/ip_geolocation/blob/main/ip_geolocation/ip_geolocation.exe) `ip_geolocation.exe` and run it from terminal.
+* [Download](https://github.com/DomagojRatko/ip_geolocation/raw/main/ip_geolocation/ip_geolocation.exe) `ip_geolocation.exe` and run it from terminal.
 * Example:
 ```bash
 ip_geolocation -i 216.58.216.238
